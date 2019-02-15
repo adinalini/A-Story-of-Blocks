@@ -1,6 +1,8 @@
 # A-Story-of-Blocks
 The official community project of Block Decentral, a crypto + gaming based discord community. https://discord.gg/Nhp6tXs
 
+https://egamers.io/join-the-development-of-community-crypto-game-by-blockdecentral/
+
 We are developing a community game right here, it will be made 100% by us members. Feel free to join the game- making journey. Don't worry if you are not a dev, we are all just starting. We have a group Trello board where our roadmap and stuff is :smile:
 
 If you feel like you cannot code, no matter! We require artists for the 8 bit artwork, we need 8 bit music and ideas to work on, everyone can contribute!
